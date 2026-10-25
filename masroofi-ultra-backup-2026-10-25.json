@@ -1,0 +1,53 @@
+{
+  "app": "masroofi-ultra",
+  "version": 2,
+  "exportedAt": "2026-10-25T13:25:41.350Z",
+  "transactions": [
+    {
+      "id": 1792934731131,
+      "kind": "expense",
+      "amount": 1,
+      "day": "2026-10-25",
+      "category": "منزل",
+      "note": ""
+    },
+    {
+      "id": 1792934718529,
+      "kind": "expense",
+      "amount": 3,
+      "day": "2026-10-25",
+      "category": "أخرى",
+      "note": ""
+    },
+    {
+      "id": 1792934713966,
+      "kind": "income",
+      "amount": 10,
+      "day": "2026-10-25",
+      "category": "رصيد افتتاحي",
+      "note": ""
+    },
+    {
+      "id": 1792934700931,
+      "kind": "expense",
+      "amount": 2,
+      "day": "2026-10-25",
+      "category": "منزل",
+      "note": ""
+    },
+    {
+      "id": 1792934680187,
+      "kind": "expense",
+      "amount": 3,
+      "day": "2026-10-25",
+      "category": "مواصلات",
+      "note": ""
+    }
+  ],
+  "budgets": [],
+  "goals": [],
+  "recurring": [],
+  "settings": {
+    "currency": "د.أ"
+  }
+}
